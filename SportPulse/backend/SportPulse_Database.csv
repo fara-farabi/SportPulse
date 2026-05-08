@@ -1,0 +1,91 @@
+League,Date,Stadium,Home Team,Away Team,Home Score,Away Score,Match_ID
+Premier League,1775847600,London Stadium,West Ham United,Wolverhampton,4,0,14025029
+Premier League,1775907000,Emirates Stadium,Arsenal,Bournemouth,1,2,14025021
+Premier League,1775916000,Turf Moor,Burnley,Brighton & Hove Albion,0,2,14024002
+Premier League,1775916000,Brentford Community Stadium,Brentford,Everton,2,2,14025022
+Premier League,1775925000,Anfield,Liverpool,Fulham,2,0,14024000
+Premier League,1775998800,Selhurst Park,Crystal Palace,Newcastle United,2,1,14023999
+Premier League,1775998800,City Ground,Nottingham Forest,Aston Villa,1,1,14025025
+Premier League,1775998800,Stadium of Light,Sunderland,Tottenham Hotspur,1,0,14025026
+Premier League,1776007800,Stamford Bridge,Chelsea,Manchester City,0,3,14023998
+Premier League,1776106800,Old Trafford,Manchester United,Leeds United,1,2,14025024
+Premier League,1776511800,Brentford Community Stadium,Brentford,Fulham,0,0,14025031
+Premier League,1776520800,Elland Road,Leeds United,Wolverhampton,3,0,14025036
+Premier League,1776520800,St James' Park,Newcastle United,Bournemouth,1,2,14025040
+Premier League,1776529800,Tottenham Hotspur Stadium,Tottenham Hotspur,Brighton & Hove Albion,2,2,14025042
+Premier League,1776538800,Stamford Bridge,Chelsea,Manchester United,0,1,14025032
+Premier League,1776603600,City Ground,Nottingham Forest,Burnley,4,1,14025041
+Premier League,1776603600,Villa Park,Aston Villa,Sunderland,4,3,14025030
+Premier League,1776603600,Hill Dickinson Stadium,Everton,Liverpool,1,2,14025035
+Premier League,1776612600,Etihad Stadium,Manchester City,Arsenal,2,1,14025039
+Premier League,1776711600,Selhurst Park,Crystal Palace,West Ham United,0,0,14025034
+Premier League,1776798000,American Express Stadium,Brighton & Hove Albion,Chelsea,3,0,14024001
+Premier League,1776884400,Vitality Stadium,Bournemouth,Leeds United,2,2,14025044
+Premier League,1776884400,Turf Moor,Burnley,Manchester City,0,1,14024003
+Premier League,1777057200,Stadium of Light,Sunderland,Nottingham Forest,0,5,14023932
+Premier League,1777116600,Craven Cottage,Fulham,Aston Villa,1,0,14024004
+Premier League,1777125600,London Stadium,West Ham United,Everton,2,1,14023934
+Premier League,1777125600,Molineux Stadium,Wolverhampton,Tottenham Hotspur,0,1,14024022
+Premier League,1777125600,Anfield,Liverpool,Crystal Palace,3,1,14024005
+Premier League,1777134600,Emirates Stadium,Arsenal,Newcastle United,1,0,14025045
+Premier League,1777316400,Old Trafford,Manchester United,Brentford,2,1,14023926
+La Liga,1775847600,Bernabéu,Real Madrid,Girona FC,1,1,14083191
+La Liga,1775908800,Reale Arena,Real Sociedad,Deportivo Alavés,3,3,14083152
+La Liga,1775916900,Estadio Martínez Valero,Elche,Valencia,1,0,14083132
+La Liga,1775925000,Spotify Camp Nou,FC Barcelona,Espanyol,4,1,14083113
+La Liga,1775934000,Ramón Sánchez Pizjuán,Sevilla,Atlético Madrid,2,1,14083161
+La Liga,1775995200,Estadio El Sadar,Osasuna,Real Betis,1,1,14083172
+La Liga,1776003300,Estadi de Son Moix,Mallorca,Rayo Vallecano,3,0,14083142
+La Liga,1776011400,Estadio Abanca Balaídos,Celta Vigo,Real Oviedo,0,3,14083123
+La Liga,1776020400,San Mamés,Athletic Club,Villarreal,1,2,14083102
+La Liga,1776106800,Ciudad de Valencia,Levante UD,Getafe,1,0,14083182
+La Liga,1776790800,Estadi de Son Moix,Mallorca,Valencia,1,1,14083270
+La Liga,1776790800,San Mamés,Athletic Club,Osasuna,1,0,14083258
+La Liga,1776799800,Estadi Montilivi,Girona FC,Real Betis,2,3,14083318
+La Liga,1776799800,Bernabéu,Real Madrid,Deportivo Alavés,2,1,14083295
+La Liga,1776877200,Estadio Martínez Valero,Elche,Atlético Madrid,3,2,14083306
+La Liga,1776880800,Reale Arena,Real Sociedad,Getafe,0,1,14083346
+La Liga,1776886200,Spotify Camp Nou,FC Barcelona,Celta Vigo,1,0,14083261
+La Liga,1776963600,Ciudad de Valencia,Levante UD,Sevilla,2,0,14083265
+La Liga,1776967200,Estadio de Vallecas,Rayo Vallecano,Espanyol,1,0,14083330
+La Liga,1776972600,Carlos Tartiere,Real Oviedo,Villarreal,1,1,14083282
+La Liga,1777057200,Estadio de la Cartuja,Real Betis,Real Madrid,1,1,14083211
+La Liga,1777118400,Estadio de Mendizorroza,Deportivo Alavés,Mallorca,2,1,14083202
+La Liga,1777126500,Coliseum Alfonso Pérez,Getafe,FC Barcelona,0,2,14083245
+La Liga,1777134600,Mestalla,Valencia,Girona FC,2,1,14083255
+La Liga,1777143600,Riyadh Air Metropolitano,Atlético Madrid,Athletic Club,3,2,14083242
+La Liga,1777204800,Estadio de Vallecas,Rayo Vallecano,Real Sociedad,3,3,14083239
+La Liga,1777212900,Carlos Tartiere,Real Oviedo,Elche,1,2,14083252
+La Liga,1777221000,Estadio El Sadar,Osasuna,Sevilla,2,1,14083231
+La Liga,1777230000,Estadio de la Ceramica,Villarreal,Celta Vigo,2,1,14083248
+La Liga,1777316400,RCDE Stadium,Espanyol,Levante UD,0,0,14083221
+Champions League,1772041500,New Balance Arena,Atalanta,Borussia Dortmund,4,1,15452774
+Champions League,1772049600,Allianz Stadium,Juventus,Galatasaray,3,2,15452770
+Champions League,1772049600,Parc des Princes,Paris Saint-Germain,AS Monaco,2,2,15452749
+Champions League,1772049600,Bernabéu,Real Madrid,Benfica,2,1,15452752
+Champions League,1773164700,Rams Park Stadyumu,Galatasaray,Liverpool,1,0,15631351
+Champions League,1773172800,New Balance Arena,Atalanta,FC Bayern München,1,6,15631361
+Champions League,1773172800,Riyadh Air Metropolitano,Atlético Madrid,Tottenham Hotspur,5,2,15631356
+Champions League,1773172800,St James' Park,Newcastle United,FC Barcelona,1,1,15631347
+Champions League,1773251100,BayArena,Bayer 04 Leverkusen,Arsenal,1,1,15631363
+Champions League,1773259200,Aspmyra Stadion,Bodø/Glimt,Sporting CP,3,0,15631335
+Champions League,1773259200,Parc des Princes,Paris Saint-Germain,Chelsea,5,2,15631341
+Champions League,1773259200,Bernabéu,Real Madrid,Manchester City,3,0,15631329
+Champions League,1773769500,Estádio José Alvalade,Sporting CP,Bodø/Glimt,5,0,15631366
+Champions League,1773777600,Emirates Stadium,Arsenal,Bayer 04 Leverkusen,2,0,15631372
+Champions League,1773777600,Stamford Bridge,Chelsea,Paris Saint-Germain,0,3,15631367
+Champions League,1773777600,Etihad Stadium,Manchester City,Real Madrid,1,2,15631365
+Champions League,1773855900,Spotify Camp Nou,FC Barcelona,Newcastle United,7,2,15631368
+Champions League,1773864000,Allianz Arena,FC Bayern München,Atalanta,4,1,15631371
+Champions League,1773864000,Tottenham Hotspur Stadium,Tottenham Hotspur,Atlético Madrid,3,2,15631370
+Champions League,1773864000,Anfield,Liverpool,Galatasaray,4,0,15631369
+Champions League,1775588400,Estádio José Alvalade,Sporting CP,Arsenal,0,1,15632086
+Champions League,1775588400,Bernabéu,Real Madrid,FC Bayern München,1,2,15632084
+Champions League,1775674800,Parc des Princes,Paris Saint-Germain,Liverpool,2,0,15632083
+Champions League,1775674800,Spotify Camp Nou,FC Barcelona,Atlético Madrid,0,2,15632085
+Champions League,1776193200,Anfield,Liverpool,Paris Saint-Germain,0,2,15632087
+Champions League,1776193200,Riyadh Air Metropolitano,Atlético Madrid,FC Barcelona,1,2,15632089
+Champions League,1776279600,Emirates Stadium,Arsenal,Sporting CP,0,0,15632631
+Champions League,1776279600,Allianz Arena,FC Bayern München,Real Madrid,4,3,15632088
+Champions League,1777402800,Parc des Princes,Paris Saint-Germain,FC Bayern München,5,4,15632632
+Champions League,1777489200,Riyadh Air Metropolitano,Atlético Madrid,Arsenal,1,1,15632633
